@@ -13,7 +13,7 @@ Require [Python 3.5+](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe) 
 ```
 https://github.com/Tony607/object_detection_demo
 ```
-### Install required libraries
+### Install required libraries         hixfbgjknwdxfjog
 `pip3 install -r requirements.txt`
 
 
